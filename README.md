@@ -1,4 +1,4 @@
-# README de explicación de Contenido en este repositorio como introducción a etapa de desarrollo y uso de buenas practicas
+# README de explicación de Contenido en este repositorio como introducción a etapa de ambientes y prueba para uso de buenas practicas
 >Este documento presenta la explicación de Contenido en este repositorio como introduccion a buenas practicas que se deben implementar en Alianza CAOBA
 
 
