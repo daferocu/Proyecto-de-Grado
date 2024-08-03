@@ -39,7 +39,7 @@ input_fuente2 = root.DIR_DATA_STAGE + "df_raw_fuente_2.pickle"
 
 df=pickle.load( open(input_fuente2, "rb" ) )
 
-# Renombrar las columnas
+# Renombrar las columnas v
 df  = df.rename(columns={
      'Anno':                        "year",
      'Identificador PAA':           "id_paa",
@@ -123,4 +123,4 @@ print(f'%%% Archivo se encuentra en {output_fuente2}')
 
 df.to_pickle(output_fuente2)
 
-# # Fin de script
+# # Fin de script n
