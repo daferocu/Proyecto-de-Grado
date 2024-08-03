@@ -1,0 +1,17 @@
+gensim
+ipython
+ipython
+kmodes
+matplotlib
+mcdm
+nltk
+numpy
+pandas
+prince
+pyLDAvis
+scikit_learn
+scipy
+seaborn
+statsmodels
+tqdm
+yellowbrick
